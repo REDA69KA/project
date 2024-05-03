@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\calcul\calcul\obj\Debug\net6.0\calcul.fsproj.AssemblyReference.cache
+C:\Users\User\Desktop\calcul\calcul\obj\Debug\net6.0\calcul.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\calcul\calcul\obj\Debug\net6.0\calcul.AssemblyInfo.fs
+C:\Users\User\Desktop\calcul\calcul\obj\Debug\net6.0\calcul.fsproj.CoreCompileInputs.cache
